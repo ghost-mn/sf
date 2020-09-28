@@ -1,5 +1,5 @@
 {
-    "name": "sf",
+    "name": "sf/sf-api",
     "description": "sf api sdk",
     "authors": [
         {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "sf\\": "src/"
+            "sf\\": "sf-api/src/"
         }
     }
 }
