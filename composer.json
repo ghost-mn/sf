@@ -18,5 +18,10 @@
         "psr-4": {
             "Sf\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\" : "Tests/"
+        }
     }
 }
